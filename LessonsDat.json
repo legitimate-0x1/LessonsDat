@@ -1,9 +1,169 @@
 {
     "9/A": {
-        "Monday": ["Abcd"],
-        "Tuesday": ["Abcd"],
-        "Wednesday": ["Abcd"],
-        "Thursday": ["Abcd"],
-        "Friday": ["Abcd"]
+        "Monday": ["Matematik (2x)", "Edebiyat (2x)", "Seçmeli Proje Tasarımı (2x)", "Müzik / Resim (2x)"],
+        "Tuesday": ["Kimya (2x)", "Biyoloji (2x)", "Rehberlik", "Tarih", "Almanca (2x)"],
+        "Wednesday": ["Beden (2x)", "Fizik (2x)", "İngilizce", "Edebiyat", "Temel Din Kültürü (2x)"],
+        "Thursday": ["Matematik (2x)", "Coğrafya (2x)", "İngilizce", "Sağlık Bilgisi", "Edebiyat (2x)"],
+        "Friday": ["Din Kültürü (2x)", "Tarih", "Adab-ı Muaşeret", "İngilizce (2x)", "Matematik (2x)"]
+    },
+
+    "9/B": {
+        "Monday": ["Edebiyat (2x)", "Matematik (2x)", "Beden (2x)", "Coğrafya", "Rehberlik"],
+        "Tuesday": ["Coğrafya", "Edebiyat", "Müzik / Resim", "Matematik (2x)", "Seçmeli Din Kültürü (2x)", "Seçmeli Proje Tasarımı"],
+        "Wednesday": ["Tarih (2x)", "Kimya (2x)", "Fizik (2x)", "Din Kültürü (2x)"],
+        "Thursday": ["İngilizce (2x)", "Müzik / Resim", "Edebiyat (2x)", "Seçmeli Proje Tasarımı", "Almanca (2x)"],
+        "Friday": ["Biyoloji (2x)", "Sağlık Bilgisi", "Matematik (2x)", "Adab-ı Muaşeret", "İngilizce (2x)"]
+    },
+
+    "9/C": {
+        "Monday": ["Matematik (2x)", "Fizik (2x)", "Tarih (2x)", "Edebiyat (2x)"],
+        "Tuesday": ["İngilizce (2x)", "Matematik (2x)", "Biyoloji (2x)", "Kimya (2x)"],
+        "Wednesday": ["Coğrafya (2x)", "Rehberlik", "Sağlık Bilgisi", "Beden (2x)", ""],
+        "Thursday": ["Edebiyat (2x)", "İngilizce (2x)", "Din Kültürü (2x)", "Müzik / Resim (2x)"],
+        "Friday": ["Almanca (2x)", "Matematik (2x)", "Edebiyat", "Adab-ı Muaşeret", "Seçmeli Din Kültürü (2x)"]
+    },
+
+    "9/D": {
+        "Monday": ["Kimya (2x)", "Beden (2x)", "Biyoloji (2x)", "Coğrafya (2x)"],
+        "Tuesday": ["Matematik (2x)", "İngilizce (2x)", "Edebiyat", "Sağlık Bilgisi", "Fizik (2x)"],
+        "Wednesday": ["Matematik (2x)", "İngilizce (2x)", "Edebiyat (2x)", "Tarih (2x)"],
+        "Thursday": ["Edebiyat (2x)", "Rehberlik", "Müzik / Resim (2x)", "Adab-ı Muaşeret", "Seçmeli Proje Tasarım", "Seçmeli Din Kültürü (2x)"],
+        "Friday": ["Matematik (2x)", "Din Kültürü (2x)", "Almanca (2x)", "Seçmeli Proje Tasarım (2x)"]
+    },
+
+    "9/E": {
+        "Monday": ["Tarih (2x)", "Matematik (2x)", "Rehberlik", "Müzik / Resim", "Fizik (2x)"],
+        "Tuesday": ["Edebiyat (2x)", "Adab-ı Muaşeret", "Müzik / Resim", "Din Kültürü", "Sağlık Bilgisi", "Seçmeli Din Kültürü"],
+        "Wednesday": ["İngilizce (2x)", "Beden (2x)", "Seçmeli Proje Tasarım (2x)", "Matematik (2x)"],
+        "Thursday": ["Edebiyat (2x)", "Almanca (2x)", "Kimya (2x)", "Coğrafya (2x)"],
+        "Friday": ["İngilizce (2x)", "Matematik (2x)", "Edebiyat", "Seçmeli Din Kültürü", "Biyoloji (2x)"]
+    },
+
+    "10/A": {
+        "Monday": ["Coğrafya (2x)", "Biyoloji (2x)", "Fizik (2x)", "Matematik (2x)"],
+        "Tuesday": ["Din Kültürü (2x)", "Edebiyat", "Seçmeli Din Kültürü (2x)", "Seçmeli Beden", "Kimya (2x)"],
+        "Wednesday": ["Edebiyat (2x)", "Rehberlik", "Beden (2x)", "Bilişim Teknolojileri", "Tarih (2x)"],
+        "Thursday": ["Müzik / Resim (2x)", "İngilizce (2x)", "Almanca (2x)", "Matematik (2x)"],
+        "Friday": ["Edebiyat (2x)", "Felsefe (2x)", "İngilizce (2x)", "Matematik (2x)"]
+    },
+
+    "10/B": {
+        "Monday": ["İngilizce (2x)", "Coğrafya (2x)", "Tarih (2x)", "Fizik (2x)"],
+        "Tuesday": ["Bilişim Teknolojileri", "Edebiyat", "Almanca (2x)", "Matematik (2x)", "Biyoloji (2x)"],
+        "Wednesday": ["Kimya (2x)", "Felsefe (2x)", "Matematik (2x)", "Edebiyat (2x)"],
+        "Thursday": ["Beden (2x)", "Din Kültürü (2x)", "Seçmeli Din Kültürü (2x)", "Edebiyat (2x)"],
+        "Friday": ["Rehberlik", "İngilizce (2x)", "Matematik (2x)", "Seçmeli Beden", "Müzik / Resim (2x)"]
+    },
+
+    "10/C": {
+        "Monday": ["İngilizce (2x), Tarih (2x), Matematik (2x), Edebiyat (2x)"],
+        "Tuesday": ["Edebiyat (2x)", "Coğrafya (2x)", "Fizik (2x)", "Beden (2x)"],
+        "Wednesday": ["İngilizce (2x)", "Seçmeli Beden", "Rehberlik", "Felsefe (2x)", "Biyoloji (2x)"],
+        "Thursday": ["Din Kültürü (2x)", "Kimya (2x)", "Edebiyat", "Matematik (2x)", "Bilişim Teknolojileri"],
+        "Friday": ["Seçmeli Din Kültürü (2x)", "Müzik / Resim (2x)", "Matematik (2x)", "Almanca (2x)"]
+    },
+
+    "10/D": {
+        "Monday": ["Biyoloji (2x)", "Almanca (2x)", "İngilizce (2x)", "Tarih (2x)"],
+        "Tuesday": ["Müzik / Resim (2x)", "Kimya (2x)", "Coğrafya (2x)", "Din Kültürü (2x)"],
+        "Wednesday": ["Matematik (2x)", "Edebiyat (2x)", "Seçmeli Din Kültürü (2x)", "Bilişim Teknolojileri", "Seçmeli Beden"],
+        "Thursday": ["İngilizce (2x)", "Matematik (2x)", "Felsefe (2x)", "Edebiyat (2x)"],
+        "Friday": ["Matematik (2x)", "Edebiyat", "Fizik (2x)", "Rehberlik", "Beden (2x)"]
+    },
+
+    "10/E": {
+        "Monday": ["Beden (2x)", "Matematik (2x)", "Rehberlik", "Bilişim Teknolojileri", "İngilizce (2x)"],
+        "Tuesday": ["Seçmeli Din Kültürü", "İngilizce (2x)", "Almanca (2x)", "Coğrafya (2x)"],
+        "Wednesday": ["Matematik (2x)", "Edebiyat (2x)", "Seçmeli Beden", "Felsefe (2x)"],
+        "Thursday": ["Fizik (2x)", "Edebiyat (2x)", "Biyoloji (2x)", "Din Kültürü (2x)"],
+        "Friday": ["Müzik / Resim (2x)", "Edebiyat (2x)", "Matematik (2x)", "Kimya (2x)"]
+    },
+
+    "10/F": {
+        "Monday": ["Edebiyat (2x)", "Coğrafya (2x)", "Matematik (2x)", "Felsefe (2x)"],
+        "Tuesday": ["İngilizce (2x)", "Bilişim Teknolojileri", "Tarih (2x)", "Seçmeli Beden", "Almanca (2x)"],
+        "Wednesday": ["Seçmeli Din Kültürü (2x)", "İngilizce (2x)", "Din Kültürü (2x)", "Matematik (2x)"],
+        "Thursday": ["Edebiyat (2x)", "Biyoloji (2x)", "Fizik (2x)", "Kimya (2x)"],
+        "Friday": ["Beden (2x)", "Rehberlik", "Edebiyat", "Müzik / Resim (2x)", "Matematik (2x)"]
+    },
+
+    "11/A": {
+        "Monday": ["Edebiyat", "Rehberlik", "Müzik / Resim (2x)", "Kimya (2x)", "Biyoloji (2x)"],
+        "Tuesday": ["Matematik (2x)", "Edebiyat (2x)", "Bilişim Teknolojileri", "İngilizce (2x)", "Seçmeli Peygamberimizin Hayatı"],
+        "Wednesday": ["Fizik (2x)", "Edebiyat (2x)", "Matematik (2x)", "Beden (2x)"],
+        "Thursday": ["Kimya (2x)", "Fizik (2x)", "Din Kültürü (2x)", "Biyoloji (2x)"],
+        "Friday": ["Felsefe (2x)", "Matematik (2x)", "İngilizce (2x)", "Tarih (2x)"]
+    },
+
+    "11/B": {
+        "Monday": ["Müzik / Resim (2x)", "Din Kültürü (2x)", "İngilizce (2x)", "Matematik (2x)"],
+        "Tuesday": ["Edebiyat (2x)", "Biyoloji (2x)", "Matematik (2x)", "Beden (2x)"],
+        "Wednesday": ["Kimya (2x)", "Tarih (2x)", "Biyoloji (2x)", "Edebiyat (2x)"],
+        "Thursday": ["Fizik (2x)", "Kimya (2x)", "Bilişim Teknolojileri", "Edebiyat", "Seçmeli Peygamberimizin Hayatı", "Rehberlik"],
+        "Friday": ["Fizik (2x)", "Matematik (2x)", "Felsefe (2x)", "İngilizce (2x)"]
+    },
+
+    "11/C": {
+        "Monday": ["Fizik (2x)", "Edebiyat (2x)", "Biyoloji (2x)", "Kimya (2x)"],
+        "Tuesday": ["Edebiyat", "Beden (2x)", "Fizik", "Rehberlik", "Kimya", "Matematik (2x)"],
+        "Wednesday": ["Din Kültürü (2x)", "Müzik / Resim (2x)", "İngilizce (2x)", "Fizik", "Bilişim Teknolojileri"],
+        "Thursday": ["Biyoloji (2x)", "Matematik (2x)", "Tarih (2x)", "Kimya", "Seçmeli Peygamberimizin Hayatı"],
+        "Friday": ["Edebiyat (2x)", "Matematik (2x)", "İngilizce (2x)", "Felsefe (2x)"]
+    },
+
+    "11/D": {
+        "Monday": ["Coğrafya (2x)", "İngilizce (2x)", "Edebiyat", "Almanca (2x)", "Tarih"],
+        "Tuesday": ["Coğrafya", "Rehberlik", "Medeniyet (2x)", "Matematik (2x)", "Edebiyat (2x)"],
+        "Wednesday": ["Edebiyat", "İslam Bilim Tarihi", "Matematik (2x)", "İngilizce (2x)", "Müzik / Resim (2x)"],
+        "Thursday": ["Bilişim Teknolojileri", "Din Kültürü (2x)", "Coğrafya", "Edebiyat (2x)", "Felsefe (2x)"],
+        "Friday": ["Matematik (2x)", "Beden (2x)", "Edebiyat (2x)", "İslam Bilim Tarihi", "Tarih"]
+    },
+
+    "11/E": {
+        "Monday": ["Bulunamadı"],
+        "Tuesday": ["Bulunamadı"],
+        "Wednesday": ["Bulunamadı"],
+        "Thursday": ["Bulunamadı"],
+        "Friday": ["Bulunamadı"]
+    },
+
+    "12/A": {
+        "Monday": ["Fizik (2x)", "İngilizce (2x)", "İslam Bilim Tarihi", "Edebiyat", "Biyoloji (2x)"],
+        "Tuesday": ["Biyoloji", "Fizik", "Matematik (2x)", "Kimya (2x)", "Matematik Uygulamaları (2x)"],
+        "Wednesday": ["Beden / Görsel", "Matematik (2x)", "Kimya (2x)", "Din Kültürü (2x)"],
+        "Thursday": ["Matematik (2x)", "Fizik (2x)", "Edebiyat (2x)", "Tarih (2x)"],
+        "Friday": ["Edebiyat (2x)", "Rehberlik", "Kimya", "Biyoloji (2x)", "İngilizce (2x)"]
+    },
+
+    "12/B": {
+        "Monday": ["Biyoloji (2x)", "Matematik (2x)", "Fizik (2x)", "Edebiyat (2x)"],
+        "Tuesday": ["Rehberlik", "Biyoloji", "İngilizce (2x)", "İslam Bilim Tarihi", "Edebiyat", "Fizik (2x)"],
+        "Wednesday": ["İngilizce (2x)", "Matematik (2x)", "Din Kültürü (2x)", "Kimya (2x)"],
+        "Thursday": ["Matematik (2x)", "Beden / Resim (2x)", "Kimya (2x)", "Edebiyat (2x)"],
+        "Friday": ["Tarih (2x)", "Biyoloji (2x)", "Kimya", "Fizik", "Matematik Uygulamaları (2x)"]
+    },
+
+    "12/C": {
+        "Monday": ["Din Kültürü (2x)", "Biyoloji (2x)", "Edebiyat (2x)", "Matematik Uygulamaları (2x)"],
+        "Tuesday": ["Kimya (2x)", "Fizik", "Edeniyat", "Matematik (2x)", "Biyoloji (2x)"],
+        "Wednesday": ["Tarih (2x)", "Rehberlik", "Biyoloji", "Matematik (2x)", "İngilizce (2x)"],
+        "Thursday": ["Kimya (2x)", "Edebiyat (2x)", "Beden / Görsel", "Fizik (2x)"],
+        "Friday": ["İngilizce (2x)", "Kimya", "İslam Bilim Tarihi", "Matematik (2x)", "Fizik (2x)"]
+    },
+
+    "12/D": {
+        "Monday": ["Matematik (2x)", "Medeniyet (2x)", "Edebiyat", "Coğrafya", "İngilizce (2x)"],
+        "Tuesday": ["Edebiyat", "Rehberlik", "Matematik", "Beden / Görsel (2x)", "Edebiyat", "Din Kültürü", "Tarih"],
+        "Wednesday": ["Edebiyat (2x)", "Coğrafya (2x)", "Edebiyat", "Tarih", "İngilizce (2x)"],
+        "Thursday": ["Din Kültürü", "Matematik", "Matematik Uygulamaları (2x)", "Bilişim Teknolojileri (2x)", "Edebiyat"],
+        "Friday": ["Coğrafya", "Matematik (2x)", "Türk ve Dünya Tarihi (2x)", "Tarih", "Edebiyat (2x)"]
+    },
+
+    "12/E": {
+        "Monday": ["Bulunamadı"],
+        "Tuesday": ["Bulunamadı"],
+        "Wednesday": ["Bulunamadı"],
+        "Thursday": ["Bulunamadı"],
+        "Friday": ["Bulunamadı"]
     }
  }

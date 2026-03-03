@@ -1,3 +1,9 @@
 {
-    "9/A": {"Monday": ["Matematik", "Biyoloji"]}
+    "9/A": {
+        "Monday": ["Abcd"],
+        "Tuesday": ["Abcd"],
+        "Wednesday": ["Abcd"],
+        "Thursday": ["Abcd"],
+        "Friday": ["Abcd"],
+    },
  }

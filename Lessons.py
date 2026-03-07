@@ -26,8 +26,8 @@ elif os.path.exists("Dat/Lessons.json"):
 
 Lessons = json.loads(Lessons)
 
-DayNamesTbl = {"Monday": "Pazartesi", "Tuesday": "Salı", "Wednesday": "Çarşamba", "Thursday": "Perşembe", "Friday": "Cuma"}
-DayNamesTbl2 = {"pazartesi": "Monday", "salı": "Tuesday", "çarşamba": "Wednesday", "perşembe": "Thursday", "cuma": "Friday"}
+DayNamesTbl = {"Monday": "Pazartesi", "Tuesday": "Salı", "Wednesday": "Çarşamba", "Thursday": "Perşembe", "Friday": "Cuma", "Saturday": "Cumartesi", "Sunday": "Pazar"}
+DayNamesTbl2 = {"pazartesi": "Monday", "salı": "Tuesday", "çarşamba": "Wednesday", "perşembe": "Thursday", "cuma": "Friday", "cumartesi": "Saturday", "pazar": "Sunday"}
 
 LocalTime = time.localtime()
 
